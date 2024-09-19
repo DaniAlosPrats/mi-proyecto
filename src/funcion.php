@@ -6,3 +6,4 @@ function saludo(){
 function mensaje(){
     return "hola";
 }
+echo "ajajaj";
