@@ -7,3 +7,4 @@ function mensaje(){
     return "hola";
 }
 echo "aaakakks"
+echo "ajajaj";
